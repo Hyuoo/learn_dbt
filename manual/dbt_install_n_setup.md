@@ -32,7 +32,7 @@
       [1] oauth
       [2] service_account
       Desired authentication method option (enter a number): 2
-      keyfile (/path/to/bigquery/keyfile.json): ./job-posting-api-388303-54e554e9738f.json
+      keyfile (/path/to/bigquery/keyfile.json): ./{ACCESS_KEY}.json
       project (GCP project id): job-posting-api-388303
       dataset (the name of your dbt dataset): dbt 
       threads (1 or more): 1
